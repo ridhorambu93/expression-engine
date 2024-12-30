@@ -1,0 +1,1 @@
+a:3:{s:4:"time";i:1735540717;s:3:"ttl";i:86400;s:4:"data";a:2:{s:5:"error";b:1;s:9:"error_msg";s:68:"Failed to connect to update.expressionengine.com port 443: Timed out";}}
